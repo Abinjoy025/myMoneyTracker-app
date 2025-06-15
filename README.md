@@ -17,7 +17,7 @@ A new Flutter project.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Abinjoy025/myMoneyTracker-app
+    git clone https://github.com/Abinjoy025/myMoneyTracker-app.git
     cd money_tracker_app
     ```
 
